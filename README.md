@@ -22,10 +22,18 @@ This repository contains steps on how to set up a basic home lab running Active 
 <p align="center">
 Step One: <br/>
  Download and install Oracle Virtual box which is what we’re going to use to run our virtual machines on . Go to “https://www.virtualbox.org/” and download “macOs/Intel hosts” for this mac laptop then download “VirtualBox Extension Pack - VirtualBox 7.2.2 Extension Pack” as well
+<img src="https://i.imgur.com/Rum9sXX.png" height="80%" width="80%" alt="Virtualbox"/>
+
 <br />
 <br />
 Step Two:  <br/>
- We’re going to download “Windows 10 ISO (choose this)” https://www.microsoft.com/en-us/software-download/windows10ISO or Windows 11 ISO https://www.microsoft.com/en-us/software-download/windows11 & a “Server 2019 ISO” https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019  that we’re going to use to install the two operating systems on two separate virtual machines. 
+ We’re going to download “Windows 10 ISO” https://www.microsoft.com/en-us/software-download/windows10ISO 
+ <img src="https://i.imgur.com/riYjtQP.png" height="80%" width="80%" alt="Virtualbox"/>
+ <br/> 
+ Download “Server 2019 ISO” https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019  
+ <img src="https://i.imgur.com/0Comydv.png" height="80%" width="80%" alt="Virtualbox"/>
+ <br/> 
+  
 <br />
 <br />
 Step Three: <br/>
