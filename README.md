@@ -20,7 +20,7 @@ This repository contains steps on how to set up a basic home lab running Active 
 
 <p align="center">
 Step One: <br/>
- Download and install Oracle Virtual box which is what we’re going to use to run our virtual machines on . Go to “https://www.virtualbox.org/wiki/Downloads” and download “macOs/Intel hosts” for this mac laptop then download “VirtualBox Extension Pack - VirtualBox 7.2.2 Extension Pack” as well
+ Download and install Oracle Virtual box which is what we’re going to use to run our virtual machines on . Go to “https://www.virtualbox.org/” and download “macOs/Intel hosts” for this mac laptop then download “VirtualBox Extension Pack - VirtualBox 7.2.2 Extension Pack” as well
 <br />
 <br />
 Step Two:  <br/>
