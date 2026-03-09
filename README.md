@@ -33,11 +33,14 @@ Step Two:  <br/>
  Download “Server 2019 ISO” https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019  
  <img src="https://i.imgur.com/0Comydv.png" height="80%" width="80%" alt="Virtualbox"/>
  <br/> 
-  
+
 <br />
 <br />
-Step Three: <br/>
- We’re going to create our first virtual machine which is going to be our domain controller which is going to house an active directory. We’re going to give this virtual machine two network adapters, one is going to be used to connect to the outside internet and the other one that’s going to be used to connect to the virtual box, a kind of private network that the clients are going to connect to.
+Step Three:  <br/>
+We’re going to create our first virtual machine which is going to be our domain controller which is going to house an active directory. We’re going to give this virtual machine two network adapters, one is going to be used to connect to the outside internet and the other one that’s going to be used to connect to the virtual box, a kind of private network that the clients are going to connect to.  <br/> 
+ <img src="https://i.imgur.com/EJrzmD0.png" height="80%" width="80%" alt="Virtualbox"/>
+ <br/> 
+
 <br />
 <br />
 Step Four:  <br/>
