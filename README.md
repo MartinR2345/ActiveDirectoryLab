@@ -17,7 +17,7 @@ This repository contains steps on how to set up a basic home lab running Active 
 - <b>Windows 10</b> (21H2)
 - <b>Server 2019</b>
 
- <h2>Diagram</h2>
+ <h2>Diagram of Network Map</h2>
 <p align="center">
 <img src="https://i.imgur.com/GOKMdsd.png" height="80%" width="80%" alt="Virtualbox"/>
 
